@@ -1,0 +1,6 @@
+[INFO ] 2023-05-04 14:00:06.184 [main] TC_LoginTest_01 - URL is opened
+[INFO ] 2023-05-04 14:00:06.620 [main] TC_LoginTest_01 - First name entered successfully 
+[INFO ] 2023-05-04 14:00:06.738 [main] TC_LoginTest_01 - lastname is successfully entered
+[INFO ] 2023-05-04 14:00:06.897 [main] TC_LoginTest_01 - telephone is successfully entered
+[INFO ] 2023-05-04 14:00:07.038 [main] TC_LoginTest_01 - email is successfully entered
+[INFO ] 2023-05-04 14:00:07.157 [main] TC_LoginTest_01 - details are successfully entered
